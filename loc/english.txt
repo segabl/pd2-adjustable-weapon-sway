@@ -1,0 +1,13 @@
+{
+	"menu_weapon_sway" : "Adjustable Weapon Sway",
+	"menu_weapon_sway_desc" : "Tweak the amount of weapon sway when moving your view",
+	"menu_weapon_sway_horizontal_mul" : "Horizontal Multiplier",
+	"menu_weapon_sway_vertical_mul" : "Vertical Multiplier",
+	"menu_weapon_sway_unified" : "Unified Values",
+	"menu_weapon_sway_unified_desc" : "Use the same base value for all weapons",
+	"menu_weapon_sway_stance_mul" : "Stance multipliers",
+	"menu_weapon_sway_stance_mul_desc" : "Set multipliers for stances",
+	"menu_weapon_sway_standard" : "Default",
+	"menu_weapon_sway_steelsight" : "Steelsight",
+	"menu_weapon_sway_crouched" : "Crouched"
+}
