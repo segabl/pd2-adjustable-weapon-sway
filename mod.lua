@@ -62,7 +62,7 @@ local function set_multipliers(playertweakdata)
 	end
 end
 
-Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInitStreamlinedHeisting", function (loc)
+Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInitAdjustableWeaponSway", function (loc)
 	HopLib:load_localization(mod_path .. "loc/", loc)
 end)
 
