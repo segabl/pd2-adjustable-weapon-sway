@@ -2,10 +2,9 @@
 	"name" : "Adjustable Weapon Sway",
 	"description" : "Lets you adjust how much weapons sway when moving your view",
 	"author" : "Hoppip",
-	"contact" : "Hoppip#1630",
 	"color" : "0.043 0.808 0.6",
 	"image" : "mod.png",
-	"version" : "1.2",
+	"version" : "1.2.1",
 	"updates" : [{
 		"identifier" : "pd2-adjustable-weapon-sway",
 		"host": { "meta" : "https://updates.hoppip.at/pd2-adjustable-weapon-sway" }

@@ -62,6 +62,11 @@ local function set_multipliers(playertweakdata)
 	end
 end
 
+builder.save_settings = function (self)
+	MenuBuilder.save_settings(self)
+	set_multipliers(tweak_data.player)
+end
+
 Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInitAdjustableWeaponSway", function (loc)
 	HopLib:load_localization(mod_path .. "loc/", loc)
 end)
